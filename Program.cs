@@ -13,7 +13,7 @@ namespace ForEach_Loops
                 Console.WriteLine(number);
             }
 
-            // Uncomment the following code to see the iteration over characters in a string
+            
 
             // var name = "Rock Cena";
             // for (var i = 0; i < name.Length; i++)
